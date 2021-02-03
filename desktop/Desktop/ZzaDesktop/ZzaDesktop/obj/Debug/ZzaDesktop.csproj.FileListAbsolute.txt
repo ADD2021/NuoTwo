@@ -1,0 +1,208 @@
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.exe.config
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.exe
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.pdb
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.dll
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Abstractions.dll
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Container.dll
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.dll
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.pdb
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.dll.config
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.xml
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Abstractions.pdb
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Container.pdb
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csprojAssemblyReference.cache
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\AddEditCustomerView.g.cs
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\CustomerListView.g.cs
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\OrderPrep\OrderPrepView.g.cs
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\Orders\OrderView.g.cs
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\App.g.cs
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop_MarkupCompile.cache
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop_MarkupCompile.lref
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\AddEditCustomerView.baml
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\CustomerListView.baml
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\MainWindow.baml
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\OrderPrep\OrderPrepView.baml
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\Orders\OrderView.baml
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.g.resources
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.Properties.Resources.resources
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.GenerateResource.cache
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.CopyComplete
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.exe
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.pdb
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.exe.config
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.exe
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.pdb
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.dll
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Abstractions.dll
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Container.dll
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.dll
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.pdb
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.dll.config
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.xml
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Container.pdb
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csprojAssemblyReference.cache
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\AddEditCustomerView.g.cs
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\CustomerListView.g.cs
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\OrderPrep\OrderPrepView.g.cs
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\Orders\OrderView.g.cs
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\App.g.cs
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop_MarkupCompile.cache
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop_MarkupCompile.lref
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\AddEditCustomerView.baml
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\CustomerListView.baml
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\MainWindow.baml
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\OrderPrep\OrderPrepView.baml
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\Orders\OrderView.baml
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.g.resources
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.Properties.Resources.resources
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.GenerateResource.cache
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.CopyComplete
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.exe
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.pdb
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.exe.config
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.exe
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.pdb
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.dll
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Abstractions.dll
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Container.dll
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.dll
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.pdb
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.dll.config
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.xml
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Container.pdb
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csprojAssemblyReference.cache
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\AddEditCustomerView.g.cs
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\CustomerListView.g.cs
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\OrderPrep\OrderPrepView.g.cs
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\Orders\OrderView.g.cs
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\App.g.cs
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop_MarkupCompile.cache
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop_MarkupCompile.lref
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\AddEditCustomerView.baml
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\CustomerListView.baml
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\MainWindow.baml
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\OrderPrep\OrderPrepView.baml
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\Orders\OrderView.baml
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.g.resources
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.Properties.Resources.resources
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.GenerateResource.cache
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.CopyComplete
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.exe
+C:\Users\Dorotea\Desktop\NuoTwoDesktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.pdb
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.exe.config
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.exe
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.pdb
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.dll
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Abstractions.dll
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Container.dll
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.dll
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.pdb
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.dll.config
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.xml
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Container.pdb
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csprojAssemblyReference.cache
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\AddEditCustomerView.g.cs
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\CustomerListView.g.cs
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\OrderPrep\OrderPrepView.g.cs
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\Orders\OrderView.g.cs
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\App.g.cs
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop_MarkupCompile.cache
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop_MarkupCompile.lref
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\AddEditCustomerView.baml
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\Customers\CustomerListView.baml
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\MainWindow.baml
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\OrderPrep\OrderPrepView.baml
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\Orders\OrderView.baml
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.g.resources
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.Properties.Resources.resources
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.GenerateResource.cache
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.CopyComplete
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.exe
+C:\Users\Dorotea\Desktop\NT_FER_OO\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.pdb
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.exe.config
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.exe
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\ZzaDesktop.pdb
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.dll
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Abstractions.dll
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Container.dll
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.dll
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.pdb
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Zza.Data.dll.config
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.xml
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Abstractions.pdb
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Container.pdb
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csprojAssemblyReference.cache
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\App.g.cs
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop_MarkupCompile.cache
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop_MarkupCompile.lref
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\MainWindow.baml
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.g.resources
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.Properties.Resources.resources
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.GenerateResource.cache
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.CopyComplete
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.exe
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.pdb
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\Devices\AddEditDeviceView.g.cs
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\Devices\DeviceListView.g.cs
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ReadingPrep\ReadingPrepView.g.cs
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\Readings\ReadingView.g.cs
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\Devices\AddEditDeviceView.baml
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\Devices\DeviceListView.baml
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ReadingPrep\ReadingPrepView.baml
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\Readings\ReadingView.baml
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.CoreCompileInputs.cache

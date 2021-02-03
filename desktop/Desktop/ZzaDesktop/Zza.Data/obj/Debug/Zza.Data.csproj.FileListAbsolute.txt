@@ -1,0 +1,45 @@
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csprojAssemblyReference.cache
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.pdb
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.Migrations.InitialCreate.resources
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.GenerateResource.cache
+C:\Users\ancip\Downloads\wpf-mvvm-in-depth\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.Migrations.SecondMigration.resources
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csprojAssemblyReference.cache
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.Migrations.InitialCreate.resources
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.Migrations.SecondMigration.resources
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.GenerateResource.cache
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Users\Dorotea\Downloads\wpf-mvvm-in-depth22\07\demos\after\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.pdb
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csprojAssemblyReference.cache
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.Migrations.InitialCreate.resources
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.Migrations.SecondMigration.resources
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.GenerateResource.cache
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.pdb
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.Migrations.FinalMigration.resources
+C:\Users\ancip\Downloads\NuoTwo-master (2)\NuoTwo-master\Desktop\ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
